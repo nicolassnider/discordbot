@@ -1,0 +1,26 @@
+{
+  "name": "botdiscord",
+  "version": "1.0.0",
+  "description": "bot discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolassnider/discordbot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Nicolás Sndier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolassnider/discordbot/issues"
+  },
+  "homepage": "https://github.com/nicolassnider/discordbot#readme",
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  }
+}
