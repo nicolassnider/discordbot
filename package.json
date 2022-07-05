@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/nicolassnider/discordbot#readme",
   "dependencies": {
-    "@discordjs/opus": "^0.2.1",
+    "@discordjs/opus": "^0.8.0",
     "apiai": "^4.0.3",
     "babel": "^6.23.0",
     "babel-register": "^6.26.0",
